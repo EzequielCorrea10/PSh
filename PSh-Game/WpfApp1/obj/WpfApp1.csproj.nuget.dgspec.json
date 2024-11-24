@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\WpfApp1.csproj": {}
+  },
+  "projects": {
+    "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\WpfApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\WpfApp1.csproj",
+        "projectName": "WpfApp1",
+        "projectPath": "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\WpfApp1.csproj",
+        "packagesPath": "C:\\Users\\Janus\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Janus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.Reporting.WinForms.v11": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "MySql.Data.EntityFramework": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
