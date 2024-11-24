@@ -38,6 +38,11 @@ namespace WpfApp1
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             viewModel.Report();
+
+            MessageBox.Show($"La carpeta donde están los reportes es:\n\\bin\\Debug\\Reports\\Generated",
+                            "Ruta de los reportes", 
+                            MessageBoxButton.OK,   
+                            MessageBoxImage.Information);         
         }
     }
 }

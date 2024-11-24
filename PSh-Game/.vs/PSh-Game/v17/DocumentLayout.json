@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Proyectos\\PSh\\PSh-Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|D:\\Proyectos\\PSh\\PSh-Game\\wpfapp1\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|D:\\Proyectos\\PSh\\PSh-Game\\wpfapp1\\viewmodel\\vmmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel\\vmmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|d:\\proyectos\\psh\\psh-game\\wpfapp1\\viewmodel\\vmmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel\\vmmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|D:\\Proyectos\\PSh\\PSh-Game\\wpfapp1\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|D:\\Proyectos\\PSh\\PSh-Game\\wpfapp1\\reports\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|D:\\Proyectos\\PSh\\PSh-Game\\wpfapp1\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|d:\\proyectos\\psh\\psh-game\\wpfapp1\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|D:\\Proyectos\\PSh\\PSh-Game\\wpfapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|D:\\Proyectos\\PSh\\PSh-Game\\wpfapp1\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|D:\\Proyectos\\PSh\\PSh-Game\\wpfapp1\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55FADAC2-720D-4554-9CBA-425FCC6C0F3B}|WpfApp1\\WpfApp1.csproj|D:\\Proyectos\\PSh\\PSh-Game\\wpfapp1\\model\\randomuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,7 +71,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\Model\\Player.cs",
               "RelativeDocumentMoniker": "WpfApp1\\Model\\Player.cs",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp1\\Views\\MainWindow.xaml",
@@ -115,13 +115,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "vmMainWindow.cs",
               "DocumentMoniker": "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\ViewModel\\vmMainWindow.cs",
               "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\vmMainWindow.cs",
               "ToolTip": "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\ViewModel\\vmMainWindow.cs",
               "RelativeToolTip": "WpfApp1\\ViewModel\\vmMainWindow.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAkwLQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAuwKUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T16:17:10.766Z",
               "EditorCaption": ""
@@ -136,7 +136,8 @@
               "RelativeToolTip": "WpfApp1\\Reports\\ReportGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T19:20:29.467Z"
+              "WhenOpened": "2024-11-23T19:20:29.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -152,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\App.xaml",
               "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
@@ -164,15 +165,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\Controllers\\PlayerController.cs",
               "RelativeDocumentMoniker": "WpfApp1\\Controllers\\PlayerController.cs",
               "ToolTip": "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\Controllers\\PlayerController.cs",
               "RelativeToolTip": "WpfApp1\\Controllers\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBUAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:03:54.855Z"
+              "WhenOpened": "2024-11-22T14:03:54.855Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -182,9 +184,10 @@
               "RelativeDocumentMoniker": "WpfApp1\\Views\\MainWindow.xaml.cs",
               "ToolTip": "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\Views\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfApp1\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvycAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T12:35:57.372Z"
+              "WhenOpened": "2024-11-21T12:35:57.372Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -200,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "DBAccess.cs",
               "DocumentMoniker": "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\Database\\DBAccess.cs",
               "RelativeDocumentMoniker": "WpfApp1\\Database\\DBAccess.cs",
@@ -212,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.config",
               "DocumentMoniker": "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\App.config",
               "RelativeDocumentMoniker": "WpfApp1\\App.config",
@@ -224,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "PlayerService.cs",
               "DocumentMoniker": "D:\\Proyectos\\PSh\\PSh-Game\\WpfApp1\\Services\\PlayerService.cs",
               "RelativeDocumentMoniker": "WpfApp1\\Services\\PlayerService.cs",

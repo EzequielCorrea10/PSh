@@ -163,19 +163,16 @@ namespace WpfApp1.ViewModel
 
         public void Report()
         {
-            var players = _playerController.GetPlayers(null);
+            var players = _playerController.GetPlayers(10);
 
-            // Obtener el directorio base
             string baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
             string directoryPath = System.IO.Path.Combine(baseDirectory, "Reports", "Generated");
 
-            // Verificar y crear las carpetas
             if (!Directory.Exists(directoryPath))
             {
                 Directory.CreateDirectory(directoryPath);
             }
 
-            // Ruta completa del archivo
             string filePath = System.IO.Path.Combine(directoryPath, "players_report.csv");
 
             ReportGenerator.GenerateCsv(players, filePath);
